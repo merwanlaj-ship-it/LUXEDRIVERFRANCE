@@ -1,0 +1,10 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "fleet": "Fleet",
+    "groups": "Groups & Seminars",
+    "quote": "Quote & Booking",
+    "terms": "Terms"
+  }
+}
