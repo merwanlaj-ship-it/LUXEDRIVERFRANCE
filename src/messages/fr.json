@@ -1,0 +1,10 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "fleet": "Flotte",
+    "groups": "Groupes & Séminaires",
+    "quote": "Devis & Réservation",
+    "terms": "Conditions"
+  }
+}
